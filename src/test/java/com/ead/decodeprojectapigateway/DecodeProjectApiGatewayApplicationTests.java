@@ -1,4 +1,4 @@
-package com.ead.decode_project_api_gateway;
+package com.ead.decodeprojectapigateway;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

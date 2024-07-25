@@ -1,4 +1,4 @@
-package com.ead.decode_project_api_gateway;
+package com.ead.decodeprojectapigateway;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
